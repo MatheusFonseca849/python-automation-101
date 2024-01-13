@@ -1,25 +1,3 @@
-# # pseudocode:
-
-# # 1- abrir navegador
-#     -apertar tecla win
-#     -digitar "chrome"
-#     -apertar enter
-# # 2- acessar site da "empresa"
-#     -clicar na barra de navegação
-#     -digitar link do site
-#     -apertar "enter"
-# # 3- fazer login
-#     -clicar no campo de login
-#     -digitar email de login
-#     -acessar campo de senha
-#     -digitar senha
-#     -clicar no botão de login
-# # 4- acessar banco de dados a ser inserido
-#     -usar pandas para importar os dados do arquivo .csv para o python
-# # 5- cadastrar produto
-
-# # 6- repetir 5 por todo o banco de dados
-
 import pyautogui
 import pandas as pd
 import time
